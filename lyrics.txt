@@ -1,1 +1,92 @@
-[Clean lyric will be pushed here]
+lyrics = """
+I see the moon caught in your hair tonight
+A subtle fire in this fading light
+I pull you closer, let the shadows fall
+Just you and me answering the late-night call
+The coffee's cold but the embers still glow
+Time slows down when you’re breathing slow
+Your head resting gently right upon my chest
+Of all the places, this one is the best
+I trace the lines along your hand
+We're miles away in our own little land
+Every whisper sends a shiver down my spine
+I just want to hold you, make you mine
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+Oh, until the break of day
+Let this midnight feeling stay
+The scent of pine and your familiar perfume
+A cozy silence fills this little room
+Your eyes catch mine, a sudden spark
+A perfect beacon glowing in the dark
+I pull you in, no need to speak
+The flush of crimson spreading on your cheek
+Every breath is a rhythm I have come to know
+I never ever want to let you go
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+Oh, until the break of day
+Let this midnight feeling stay
+The world outside is spinning out of view
+But Sayed only sees the truth in you
+A quiet pull, a deeply anchored tide
+There is nowhere else I’d rather hide
+Your fingertips trace softly on my skin
+This is exactly where my dreams begin
+I'm right here...
+Just close your eyes...
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+"""
+with open("lyric-raw.txt", "w") as f:
+f.write.. lyrics..
+I see the moon caught in your hair tonight
+A subtle fire in this fading light
+I pull you closer, let the shadows fall
+Just you and me answering the late-night call
+The coffee's cold but the embers still glow
+Time slows down when you’re breathing slow
+Your head resting gently right upon my chest
+Of all the places, this one is the best
+I trace the lines along your hand
+We're miles away in our own little land
+Every whisper sends a shiver down my spine
+I just want to hold you, make you mine
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+Oh, until the break of day
+Let this midnight feeling stay
+The scent of pine and your familiar perfume
+A cozy silence fills this little room
+Your eyes catch mine, a sudden spark
+A perfect beacon glowing in the dark
+I pull you in, no need to speak
+The flush of crimson spreading on your cheek
+Every breath is a rhythm I have come to know
+I never ever want to let you go
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+Oh, until the break of day
+Let this midnight feeling stay
+The world outside is spinning out of view
+But Sayed only sees the truth in you
+A quiet pull, a deeply anchored tide
+There is nowhere else I’d rather hide
+Your fingertips trace softly on my skin
+This is exactly where my dreams begin
+I'm right here...
+Just close your eyes...
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
