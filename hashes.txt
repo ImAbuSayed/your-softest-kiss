@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Softest Kiss
+
+This log tracks the cryptographic history and versioning for the song **Your Softest Kiss** (your-softest-kiss).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T02:20:08.222056 | `v1` | `ad6eb67da62f13ef69d76708d8c917ce6e2d2467b89947b8f6e698c93a5b5ee3` | `33444c6be0d7ea0967703f1bd552d2837237ae88b7f5afe708e100e2aec41356` | `2026-06-02_your-softest-kiss-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

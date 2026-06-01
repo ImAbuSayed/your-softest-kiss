@@ -1,0 +1,261 @@
+Title: Your Softest Kiss
+Clean Hash: ad6eb67da62f13ef69d76708d8c917ce6e2d2467b89947b8f6e698c93a5b5ee3
+Raw Hash: 33444c6be0d7ea0967703f1bd552d2837237ae88b7f5afe708e100e2aec41356
+Date: 2026-06-02T02:20:08.222056
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+lyrics = """[Hook]
+[Acoustic guitar strums, warm and intimate]
+I see the moon caught in your hair tonight
+A subtle fire in this fading light
+I pull you closer, let the shadows fall
+Just you and me answering the late-night call
+
+[Verse 1]
+[Soft fingerpicked guitar textures]
+The coffee's cold but the embers still glow
+Time slows down when you’re breathing slow
+Your head resting gently right upon my chest
+Of all the places, this one is the best
+
+[Pre-Chorus]
+[Light piano accents and melodic bass]
+I trace the lines along your hand
+We're miles away in our own little land
+Every whisper sends a shiver down my spine
+I just want to hold you, make you mine
+
+[Chorus]
+[Smooth electric guitar leads, warm analog-style tone]
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+
+[Post-Chorus]
+[Subtle ambient pads]
+Oh, until the break of day
+Let this midnight feeling stay
+
+[Verse 2]
+[Acoustic-first emotional texture, live human feel]
+The scent of pine and your familiar perfume
+A cozy silence fills this little room
+Your eyes catch mine, a sudden spark
+A perfect beacon glowing in the dark
+
+[Pre-Chorus 2]
+[Restrained live drums, building emotional tension]
+I pull you in, no need to speak
+The flush of crimson spreading on your cheek
+Every breath is a rhythm I have come to know
+I never ever want to let you go
+
+[Chorus]
+[Atmospheric reverb textures, spacious but emotionally close]
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+
+[Post-Chorus 2]
+[Soulful dynamic phrasing]
+Oh, until the break of day
+Let this midnight feeling stay
+
+[Bridge]
+[Stripped back, emotional instrumental spacing]
+The world outside is spinning out of view
+But Saeed only sees the truth in you
+A quiet pull, a deeply anchored tide
+There is nowhere else I’d rather hide
+Your fingertips trace softly on my skin
+This is exactly where my dreams begin
+
+[Spoken]
+[Whispered] (I'm right here...)
+[Spoken] (Just close your eyes...)
+
+[Final Chorus]
+[Smooth chorus lift without becoming overly energetic]
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+"""
+
+with open("lyric-raw.txt", "w") as f:
+    f.write(lyrics)
+[Hook]
+[Acoustic guitar strums, warm and intimate]
+I see the moon caught in your hair tonight
+A subtle fire in this fading light
+I pull you closer, let the shadows fall
+Just you and me answering the late-night call
+
+[Verse 1]
+[Soft fingerpicked guitar textures]
+The coffee's cold but the embers still glow
+Time slows down when you’re breathing slow
+Your head resting gently right upon my chest
+Of all the places, this one is the best
+
+[Pre-Chorus]
+[Light piano accents and melodic bass]
+I trace the lines along your hand
+We're miles away in our own little land
+Every whisper sends a shiver down my spine
+I just want to hold you, make you mine
+
+[Chorus]
+[Smooth electric guitar leads, warm analog-style tone]
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+
+[Post-Chorus]
+[Subtle ambient pads]
+Oh, until the break of day
+Let this midnight feeling stay
+
+[Verse 2]
+[Acoustic-first emotional texture, live human feel]
+The scent of pine and your familiar perfume
+A cozy silence fills this little room
+Your eyes catch mine, a sudden spark
+A perfect beacon glowing in the dark
+
+[Pre-Chorus 2]
+[Restrained live drums, building emotional tension]
+I pull you in, no need to speak
+The flush of crimson spreading on your cheek
+Every breath is a rhythm I have come to know
+I never ever want to let you go
+
+[Chorus]
+[Atmospheric reverb textures, spacious but emotionally close]
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+
+[Post-Chorus 2]
+[Soulful dynamic phrasing]
+Oh, until the break of day
+Let this midnight feeling stay
+
+[Bridge]
+[Stripped back, emotional instrumental spacing]
+The world outside is spinning out of view
+But Saeed only sees the truth in you
+A quiet pull, a deeply anchored tide
+There is nowhere else I’d rather hide
+Your fingertips trace softly on my skin
+This is exactly where my dreams begin
+
+[Spoken]
+[Whispered] (I'm right here...)
+[Spoken] (Just close your eyes...)
+
+[Final Chorus]
+[Smooth chorus lift without becoming overly energetic]
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+--------------------
+[CLEAN LYRICS]
+lyrics = """
+I see the moon caught in your hair tonight
+A subtle fire in this fading light
+I pull you closer, let the shadows fall
+Just you and me answering the late-night call
+The coffee's cold but the embers still glow
+Time slows down when you’re breathing slow
+Your head resting gently right upon my chest
+Of all the places, this one is the best
+I trace the lines along your hand
+We're miles away in our own little land
+Every whisper sends a shiver down my spine
+I just want to hold you, make you mine
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+Oh, until the break of day
+Let this midnight feeling stay
+The scent of pine and your familiar perfume
+A cozy silence fills this little room
+Your eyes catch mine, a sudden spark
+A perfect beacon glowing in the dark
+I pull you in, no need to speak
+The flush of crimson spreading on your cheek
+Every breath is a rhythm I have come to know
+I never ever want to let you go
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+Oh, until the break of day
+Let this midnight feeling stay
+The world outside is spinning out of view
+But Sayed only sees the truth in you
+A quiet pull, a deeply anchored tide
+There is nowhere else I’d rather hide
+Your fingertips trace softly on my skin
+This is exactly where my dreams begin
+I'm right here...
+Just close your eyes...
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+"""
+with open("lyric-raw.txt", "w") as f:
+f.write.. lyrics..
+I see the moon caught in your hair tonight
+A subtle fire in this fading light
+I pull you closer, let the shadows fall
+Just you and me answering the late-night call
+The coffee's cold but the embers still glow
+Time slows down when you’re breathing slow
+Your head resting gently right upon my chest
+Of all the places, this one is the best
+I trace the lines along your hand
+We're miles away in our own little land
+Every whisper sends a shiver down my spine
+I just want to hold you, make you mine
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+Oh, until the break of day
+Let this midnight feeling stay
+The scent of pine and your familiar perfume
+A cozy silence fills this little room
+Your eyes catch mine, a sudden spark
+A perfect beacon glowing in the dark
+I pull you in, no need to speak
+The flush of crimson spreading on your cheek
+Every breath is a rhythm I have come to know
+I never ever want to let you go
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
+Oh, until the break of day
+Let this midnight feeling stay
+The world outside is spinning out of view
+But Sayed only sees the truth in you
+A quiet pull, a deeply anchored tide
+There is nowhere else I’d rather hide
+Your fingertips trace softly on my skin
+This is exactly where my dreams begin
+I'm right here...
+Just close your eyes...
+Your softest kiss, a quiet kind of storm
+In your arms, I find a place so warm
+A gentle touch that speaks what words can't say
+I want to lose myself in you until the break of day
